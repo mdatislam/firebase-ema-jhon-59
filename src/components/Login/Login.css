@@ -1,0 +1,27 @@
+.input-container{
+  width: 500px;
+ 
+  margin: 15px auto;
+  background: #FFFFFF;
+border: 1px solid #95A0A7;
+box-sizing: border-box;
+border-radius: 8px;
+display: flex;
+justify-content: center;
+}
+.input-field {
+    width: 415px;
+    height: 84px;
+ 
+}
+.input-field input{
+    width: 415px;
+    height: 55px;
+    border: 1px solid #95a0a7;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+h3 {
+  color: red;
+}
